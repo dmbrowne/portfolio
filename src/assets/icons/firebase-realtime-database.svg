@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="144px" height="144px" viewBox="0 0 144 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Firebase Realtime Database (7- Raw Icon, Light)</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Firebase-Realtime-Database-(7--Raw-Icon,-Light)" transform="translate(-24.000000, -24.000000)">
+            <polygon id="Path" points="0 0 192 0 192 192 0 192"></polygon>
+            <path d="M24,120 L168,120 L168,152.016 C168,160.848 160.856,168 152.04,168 L39.96,168 C31.144,168 24,160.816 24,152.016 L24,120 Z M24,39.936 C24,31.136 31.144,24 39.96,24 L152.04,24 C160.856,24 168,31.2 168,39.936 L168,96.064 C168,104.864 160.856,112 152.04,112 L39.96,112 C31.144,112 24,104.8 24,96.064 L24,39.936 Z M40,40 L152,40 L152,64 L40,64 L40,40 Z M40,84.04 C40,81.8 41.712,80 44.04,80 L51.96,80 C54.2,80 56,81.712 56,84.04 L56,91.96 C56,94.2 54.288,96 51.96,96 L44.04,96 C41.8,96 40,94.288 40,91.96 L40,84.04 Z M40,140.04 C40,137.8 41.712,136 44.04,136 L51.96,136 C54.2,136 56,137.712 56,140.04 L56,147.96 C56,150.2 54.288,152 51.96,152 L44.04,152 C41.8,152 40,150.288 40,147.96 L40,140.04 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

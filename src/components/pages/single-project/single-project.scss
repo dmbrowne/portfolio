@@ -1,0 +1,33 @@
+.bg-image {
+  height: calc(30vh + 111px);
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: center center !important;
+  @media screen and (min-width: 768px) {
+    height: calc(50vh + 111px);
+  }
+}
+
+.projects {
+  .navbar.bg-white {
+    &:not(.short) {
+      background: transparent !important;
+      .navbar-brand,
+      .nav-link {
+        color: #fff !important;
+        &:after {
+          background: #fff !important;
+        }
+      }
+
+      .navbar-toggler-icon {
+        background: #fff !important;
+
+        &:before,
+        &:after {
+          background: #fff !important;
+        }
+      }
+    }
+  }
+}

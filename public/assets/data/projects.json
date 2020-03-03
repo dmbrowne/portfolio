@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "client": "Somo",
+    "clientLogo": "/assets/img/brands/somo_light.svg",
+    "brand": "BCA",
+    "brandLogo": "/assets/img/brands/cinch.svg",
+    "title": "Cinch",
+    "categories": [
+      "Website"
+    ],
+    "imgPreviewUrl": "https://res.cloudinary.com/liquidation/image/upload/c_scale,w_1000,q_auto/v1583177031/portfolio/cinch/Screenshot_2020-03-02_at_19.22.46.jpg",
+    "bgHexColor": "rgb(78, 11, 78)",
+    "textColorClass": "text-white",
+    "banner": "/assets/img/projects/cinch-bg.png",
+    "projectDescription": "A car buying / comparision website that takes the hassle out of trying to find your ideal car.",
+    "about": "A product from British car auctions (BCA), cinch&reg; is aimed at consumers that need a little assistence when buying a car - but also useful for those that know exactly what they want and don't want to waste time \"faffing\" about! \n\ncinch&reg; has all the usual features of a car buying website, like search, filtering by brand, model, year; but it also has a \"help me decide\" feature. Taking a few details from the user about his/her/x lifestyle, and recommends cars based on it.",
+    "techNotes": "This project involved connecting to a lot of API's so performance and caching was of a relative importance",
+    "liveUrl": "https://www.cinch.co.uk/",
+    "segments": [
+      {
+        "media": {
+          "type": "image",
+          "src": "https://res.cloudinary.com/liquidation/image/upload/c_scale,e_sharpen:100,w_1240/v1583177031/portfolio/cinch/Screenshot_2020-03-02_at_19.22.46.jpg"
+        }
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://res.cloudinary.com/liquidation/image/upload/c_scale,e_sharpen:100,w_1240/v1583177029/portfolio/cinch/Screenshot_2020-03-02_at_18.42.02.jpg"
+        }
+      },
+      {
+        "imgList": [
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,e_sharpen:100,w_1240/v1583177023/portfolio/cinch/Screenshot_2020-03-02_at_18.40.42.jpg",
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,e_sharpen:100,w_1240/v1583177024/portfolio/cinch/Screenshot_2020-03-02_at_18.39.11.jpg",
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,e_sharpen:100,w_1240/v1583177023/portfolio/cinch/Screenshot_2020-03-02_at_18.41.14.jpg"
+        ]
+      },
+      {
+        "media": {
+          "type": "embed",
+          "src": "https://player.vimeo.com/video/361900982?title=0&byline=0&portrait=0"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "client": "Somo",
+    "clientLogo": "/assets/img/brands/somo_dark.svg",
+    "brand": "Audi",
+    "brandLogo": "/assets/img/brands/audi-black.svg",
+    "title": "Audi USA",
+    "categories": [
+      "Website"
+    ],
+    "imgPreviewUrl": "https://res.cloudinary.com/liquidation/image/upload/c_scale,w_1000,q_auto/v1583196484/portfolio/audi/audi_homepage.jpg",
+    "bgHexColor": "#fff",
+    "textColorClass": "text-black",
+    "projectDescription": "A car buying / comparision website that takes the hassle out of trying to find your ideal car.",
+    "liveUrl": "https://audiusa.com/",
+    "noPortfolio": true
+  },
+  {
+    "id": 3,
+    "client": "Somo",
+    "clientLogo": "/assets/img/brands/somo_light.svg",
+    "brand": "HSBC",
+    "brandLogo": "/assets/img/brands/hsbc_light.svg",
+    "imgPreviewUrl": "https://res.cloudinary.com/liquidation/image/upload/c_scale,w_1000,q_auto/c_scale,q_auto:good,w_1200/v1583252449/portfolio/hsbc/appointments.jpg",
+    "banner": "https://res.cloudinary.com/liquidation/image/upload/c_scale,q_auto:good,w_1400/v1583252436/portfolio/hsbc/180502-hsbc-logo-london-3-1600x900.jpg",
+    "title": "HSBC tablet enabled dashboard",
+    "about": "TeD (tablet enabled dashboard) was a tablet application that ran on windows.\n\n It's primary use was by staff that worked on the floor in branch. TeD gave staff the ability to book appointments, walk-ins, check in customers on arrival, and more.\n\n It was trialled across a few UK branches.",
+    "categories": [
+      "Apps"
+    ],
+    "bgHexColor": "#1a2e3b",
+    "textColorClass": "text-light",
+    "projectDescription": "A car buying / comparision website that takes the hassle out of trying to find your ideal car.",
+    "segments": [
+      {
+        "title": "This is TeD",
+        "media": {
+          "type": "embed",
+          "src": "https://player.vimeo.com/video/216460322?title=0&byline=0&portrait=0"
+        }
+      },
+      {
+        "media": {
+          "type": "embed",
+          "src": "https://player.vimeo.com/video/383648887?autoplay=1&loop=1&color=c09999&title=0&byline=0&portrait=0"
+        }
+      },
+      {
+        "imgList": [
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,q_auto:good,w_1200/v1583252449/portfolio/hsbc/appointments.jpg",
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,q_auto:good,w_1200/v1583252450/portfolio/hsbc/checked_in_appointments.jpg"
+        ]
+      },
+      {
+        "media": {
+          "type": "image",
+          "src": "https://res.cloudinary.com/liquidation/image/upload/c_scale,q_auto,w_1200/v1583252451/portfolio/hsbc/Allocate__staff.gif"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "client": "The Wildz",
+    "clientLogo": "",
+    "brand": "",
+    "brandLogo": "",
+    "title": "The Wildz - baby two, gender reveal",
+    "categories": [
+      "WebApp",
+      "PWA",
+      "Website"
+    ],
+    "thumbnail": "https://res.cloudinary.com/liquidation/image/upload/v1583199998/portfolio/wildz-gender-reveal/wildz-thumb.png",
+    "bgHexColor": "#9ece8c",
+    "textColorClass": "text-black",
+    "projectDescription": "A collaborative scanvenger webapp",
+    "about": "Mr and Mrs Wild approached me to help with producing something fun, \"techy\" and different. Based on a past project of mine they agreed on the idea of a collaborative scavenger hunt, divided into teams of <em>Mr</em> and <em>Mrs</em>.\n\n I provided them with a webapp for creating and editing games; a webapp for controlling the gameplay; and lastly the main webapp to be used by the players and contestants",
+    "segments": [
+      {
+        "imgList": [
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,e_sharpen:100,h_700/v1583175485/portfolio/wildz-gender-reveal/home-team-mrs.png",
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,e_sharpen:100,h_700/v1583201561/portfolio/wildz-gender-reveal/home-team-mr.png",
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,e_sharpen:100,h_700/v1583201560/portfolio/wildz-gender-reveal/scavenger-hunt.png",
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,e_sharpen:100,h_700/v1583201561/portfolio/wildz-gender-reveal/word-guess.png"
+        ]
+      },
+      {
+        "imgList": [
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,e_sharpen:100,h_700/v1583175486/portfolio/wildz-gender-reveal/gender-select.png",
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,e_sharpen:100,h_700/v1583175485/portfolio/wildz-gender-reveal/gender-select-confirm-girl.png",
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,e_sharpen:100,h_700/v1583175485/portfolio/wildz-gender-reveal/gender-select-girl.png",
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,e_sharpen:100,h_700/v1583175485/portfolio/wildz-gender-reveal/gender-select-boy.png"
+        ],
+        "title": "Gender prediction"
+      },
+      {
+        "text": "All players receive gender predictions from other users in real time",
+        "media": {
+          "type": "video",
+          "src": "https://res.cloudinary.com/liquidation/video/upload/c_fit,q_auto,w_650/v1583174107/portfolio/wildz-gender-reveal/gender-predict.mp4"
+        }
+      },
+      {
+        "title": "Game control",
+        "text": "Using the separate web app, the game can be controlled externally. Allowing the possibility to manually unlock other games other complete games in case the players give up",
+        "media": {
+          "type": "video",
+          "src": "https://res.cloudinary.com/liquidation/video/upload/c_fit,q_auto,w_650/v1583174100/portfolio/wildz-gender-reveal/session_control.mp4"
+        }
+      },
+      {
+        "title": "Collaborative gameplay",
+        "text": "Players on the same team can work / play collaboratively by unlocking clues and answering questions individually and updating the team progress",
+        "media": {
+          "type": "video",
+          "src": "https://res.cloudinary.com/liquidation/video/upload/c_fit,q_auto,w_650/portfolio/wildz-gender-reveal/dual-gameplay.mp4"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "client": "",
+    "clientLogo": "/assets/img/brands/y&d-logo-white.png",
+    "brand": "",
+    "brandLogo": "",
+    "title": "Mr and Mrs Browne 2018",
+    "categories": [
+      "PWA",
+      "Website"
+    ],
+    "imgPreviewUrl": "https://res.cloudinary.com/liquidation/image/upload/c_scale,w_1200,q_auto/v1583206833/portfolio/wedding/hero.jpg",
+    "bgHexColor": "#8686ff",
+    "textColorClass": "text-white",
+    "projectDescription": "A side project that was used to organise and plan my wedding, as well as send out invites and RSVPs",
+    "about": "Rather than using one of the many wedding planning tools on the market, I decided to roll and use a custom / bespoke wedding planning system.\n\nI made a both a CMS / admin interface and a invitation/rsvp page.\n\nThe invitation was also integrated with stripe&reg; to all guests to send donations as a gift",
+    "liveUrl": "https://mrandmrsbrowne2018.com/invitation/a/9b6e8ae7-f40a-4466-9671-4d1e0ea457b4",
+    "segments": [
+      {
+        "title": "Easy to retrace invites",
+        "text": "Guests can search for thier invitation if they've lost thier link",
+        "media": {
+          "type": "image",
+          "src": "https://res.cloudinary.com/liquidation/image/upload/c_scale,w_850/v1583211105/portfolio/wedding/fetch-invitation.gif"
+        }
+      },
+      {
+        "imgList": [
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,q_auto,w_1200/v1583211259/portfolio/wedding/hero.jpg",
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,q_auto,w_1200/v1583211257/portfolio/wedding/ceremony.jpg",
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,q_auto,w_1200/v1583211257/portfolio/wedding/rsvp.jpg"
+        ]
+      },
+      {
+        "title": "Wedding Donations",
+        "text": "With the use of stripe payments, guests can donate any amount at thier discretion without the need to bring cash",
+        "media": {
+          "type": "image",
+          "src": "https://res.cloudinary.com/liquidation/image/upload/c_scale,e_sharpen:100,q_auto:good,w_1200/v1583256849/portfolio/wedding/donate.jpg"
+        }
+      },
+      {
+        "imgList": [
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,q_auto,w_1200/v1583211567/portfolio/wedding/Screenshot_2020-03-03_at_04.11.33.jpg",
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,q_auto,w_1200/v1583211571/portfolio/wedding/Screenshot_2020-03-03_at_04.47.27.jpg"
+        ]
+      },
+      {
+        "title": "Easily Editable",
+        "text": "Not only was the invitations developed and customised, but a bespoke CMS and wedding planner/organisation tool was created alongside with it. Allowing the user to add attendees, edit thier allergies, add events, bridal and groom party and send out invites.",
+        "media": {
+          "type": "image",
+          "src": "https://res.cloudinary.com/liquidation/image/upload/c_scale,q_auto,w_1200/v1583211659/portfolio/wedding/admin-attendees.jpg"
+        }
+      },
+      {
+        "imgList": [
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,q_auto,w_1200/v1583211683/portfolio/wedding/event-listing.jpg",
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,q_auto,w_1200/v1583211683/portfolio/wedding/edit-attendee.jpg"
+        ]
+      },
+      {
+        "title": "An interactive day",
+        "text": "Guests were also presented with a webapp that they can \"save\" on their mobile device. The app was a social platform where guests could share photos and partake in games on the day. This would serve as great memorabilia",
+        "imgList": [
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,q_auto:best,w_534/v1583176829/portfolio/wedding/Screenshot_2020-03-01_at_18.41.19.png",
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,q_auto:best,w_534/v1583176829/portfolio/wedding/Screenshot_2020-03-01_at_19.15.39.jpg",
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,q_auto:best,w_534/v1583176829/portfolio/wedding/Screenshot_2020-03-01_at_19.17.55.png",
+          "https://res.cloudinary.com/liquidation/image/upload/c_scale,q_auto:best,w_534/v1583176829/portfolio/wedding/Screenshot_2020-03-01_at_19.18.24.png"
+        ]
+      }
+    ]
+  }
+]
