@@ -1,6 +1,5 @@
 {
-  "name": "r-oblas",
-  "homepage": "http://r-oblas.avmthemes.ru/",
+  "name": "fluxion-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

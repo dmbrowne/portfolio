@@ -35,14 +35,9 @@ const Home = () => {
 
         <div className="container pb-7 pb-md-8">
           <Link to="/projects" className="btn btn-block btn-outline-light">
-            View projects
+            View featured projects
           </Link>
         </div>
-
-        {/* <TeamSection /> */}
-
-        {/* <Offer /> */}
-
         <Who />
       </div>
       <Footer />
@@ -51,20 +46,3 @@ const Home = () => {
 };
 
 export default Home;
-
-/*
-
-
-<app-navbar [navbarColor]="'dark'"></app-navbar>
-
-<div className="home">
-
-
-
-
-</div>
-
-<app-footer></app-footer>
-
-
-*/

@@ -21,7 +21,7 @@ const SecondProject = props => {
               ></iframe>
             </div>
           </div>
-          <div className="col-md-5 col-xl-5 offset-xl-1">
+          <div className="mt-5 mt-md-0 col-md-5 col-xl-5 offset-xl-1 ">
             <div className="h5">HSBC TeD</div>
             <h2 className="mr-lg-5">Intuitive applications that facilitate changes to the norm</h2>
 
